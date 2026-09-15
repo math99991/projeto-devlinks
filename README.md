@@ -40,4 +40,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito por Matheus Fernandes e Rocketseat :wave:
+Feito por Matheus Fernandes :wave:
